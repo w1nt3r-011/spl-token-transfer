@@ -3,5 +3,7 @@
     "sender_pk": "",
     "token_addr": "",
     "receiver_addr": "",
-    "transfer_amount": 0
+    "transfer_amount": 0,
+    "compute_units": 50000,
+    "tx_fee": 0.00001
 }
